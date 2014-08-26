@@ -1,1 +1,1 @@
-[Visit the Website](basicruby.github.io)
+[Visit the Website](http://basicruby.github.io)
