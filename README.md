@@ -13,6 +13,8 @@ http://www.compileonline.com/execute_ruby_online.php
 http://collabedit.com/kyr76
 
 ###Resource###
+[Ruby Basics]
+(http://www.troubleshooters.com/codecorn/ruby/basictutorial.htm)
+
 [Loops and Conditionals]
 (http://code.tutsplus.com/articles/ruby-for-newbies-conditional-statements-and-loops--net-16537)
-
